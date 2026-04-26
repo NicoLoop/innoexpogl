@@ -195,12 +195,12 @@ Split screen
 # Footer
 
 ## Structure
-- Left: Powered by Aqlova  
+- Left: Powered by ()  
 - Center: Social links  
 - Right: Copyright  
 
 ## Attribution
-Designed by Nicoloop with Nico Studio  
+Designed by (Nicoloop with Nico Studio) .... demo  
 
 ---
 
